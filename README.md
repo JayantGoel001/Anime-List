@@ -162,6 +162,7 @@ Hey! I'm making this for all the anime lovers. It includes anime series and movi
 - Claymore
 - Goblin slayer
 
+
 ## 🎬Some more movies 
 
 - Spirited away
